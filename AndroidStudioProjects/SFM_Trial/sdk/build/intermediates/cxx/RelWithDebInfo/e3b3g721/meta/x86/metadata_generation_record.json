@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1728063462
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/.cxx/RelWithDebInfo/e3b3g721/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 496360544
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1519952627
+  }
+]

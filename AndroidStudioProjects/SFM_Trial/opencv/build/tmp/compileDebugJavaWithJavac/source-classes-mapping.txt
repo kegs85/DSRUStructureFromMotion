@@ -1,0 +1,2 @@
+org/opencv/BuildConfig.java
+ org.opencv.BuildConfig
