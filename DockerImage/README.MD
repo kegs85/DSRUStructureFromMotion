@@ -6,6 +6,9 @@ Implementing the project without Dockerfile was similarly problematic due to inc
 
 Due to the changes in some of the components, there were some issues in creating the image with the contained dockerfile and several components needed to be rolled back to previous versions.  I also had a goal to make this project more user accessible, so PHP has also been installed, and some web components have been added to allow a user accessible, so the deployed package has a web start script and processing has been automated.
 
+Note - the Files_added_to_initial_image directory contains all of the additional scripts and web files added to the initially built docker image.  These get added to the /source/OpenSfM/ directory (working directory that the image loads to).
+You do not need to add these if you use the image supplied, however, if you build from scratch using the OpenSFM dockerfile, you will need to add these.
+
 DOCKER_IMAGE
 kegs85/dsruproject:opensfm
 
