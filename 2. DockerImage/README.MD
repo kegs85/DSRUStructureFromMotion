@@ -17,13 +17,13 @@ HOW_TO_USE
 * This process can be used to create a dense point cloud from a series of 2D images.
 * These images should be taken from left to right or right to left across the front of an image, not vertically.
 
-1) Deploy the docker image to a container
-  a. make sure the container maps a port on your computer - you'll need to remember this port for Step 3
-2) SSH to the container and execute "./startweb"
-3) Open a browser and navigate to localhost:port_from_step_1a
-4) Use the web UI to select the images you wish to process
-5) Click Upload
-wait for the system to process the files - you can watch progress on the SSH window if you like
-6) Once complete, you can download your completed dense point cloud
-7) I suggest downloading MeshLAB and opening the ply with it
-8) Measure your reference marker (e.g. coin) and use it to scale the other measurements in the point cloud
+1. Deploy the docker image to a container
+  * make sure the container maps a port on your computer - you'll need to remember this port for Step 3
+2. SSH to the container and execute "./startweb"
+3. Open a browser and navigate to localhost:port_from_step_1
+4. Use the web UI to select the images you wish to process
+5. Click Upload
+* wait for the system to process the files - you can watch progress on the SSH window if you like
+6. Once complete, you can download your completed dense point cloud
+7. I suggest downloading MeshLAB and opening the ply with it
+8. Measure your reference marker (e.g. coin) and use it to scale the other measurements in the point cloud
