@@ -1,0 +1,1 @@
+/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/build/intermediates/cxx/RelWithDebInfo/522b6u1q/obj/x86

@@ -1,0 +1,1 @@
+/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/build/intermediates/cxx/Debug/6q5r403x/obj/armeabi-v7a

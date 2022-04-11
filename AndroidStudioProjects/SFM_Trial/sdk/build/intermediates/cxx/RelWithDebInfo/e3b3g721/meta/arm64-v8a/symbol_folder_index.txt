@@ -1,1 +1,0 @@
-/Users/krissimpson/AndroidStudioProjects/SFM_Trial/sdk/build/intermediates/cxx/RelWithDebInfo/e3b3g721/obj/arm64-v8a

@@ -1,1 +1,0 @@
-/Users/krissimpson/AndroidStudioProjects/SFM_Trial/opencv/build/intermediates/cxx/Debug/295e156c/obj/armeabi-v7a

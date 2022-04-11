@@ -1,1 +1,0 @@
-/Users/krissimpson/AndroidStudioProjects/ResearchProject/opencv/build/intermediates/cxx/Debug/1y442p2o/obj/x86_64
