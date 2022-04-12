@@ -1,0 +1,12 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="1" filename="../../../../../../../OneDrive - TGI Technology/Computer Science/Research/Scratch/Case_Project/0a75a1203b9513aec612da3f1be4fc2b.ply" idInFile="-1" label="0a75a1203b9513aec612da3f1be4fc2b.ply">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" pointColor="252 233 79 255" wireWidth="1" boxColor="234 234 234 255" solidColor="192 192 192 255" wireColor="64 64 64 255">000111010000000000000100000001001000001010100000000100111010110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
